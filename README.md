@@ -25,5 +25,5 @@ Built using **React + Vite**, this project demonstrates state management with ho
 | **JavaScript (ES6+)** | State and event handling |
 
 ---
-## 📂 Folder Structure
+
 
